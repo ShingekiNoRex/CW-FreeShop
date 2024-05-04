@@ -6,7 +6,8 @@ using System.Linq;
 
 namespace CW_FreeShop
 {
-	[BepInPlugin("FreeShop", "Free Shop", "1.0")]
+	[ContentWarningPlugin("FreeShop", "1.1", true)]
+	[BepInPlugin("FreeShop", "Free Shop", "1.1")]
 	public class FreeShop : BaseUnityPlugin
 	{
 		void Awake()
