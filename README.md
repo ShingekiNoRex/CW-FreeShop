@@ -14,8 +14,9 @@ Please submit [here](https://github.com/ShingekiNoRex/CW-FreeShop/issues).
 ## Does it support meta coin?
    No. 
    
-   You can just edit the save file in AppData\LocalLow\Landfall Games\Content Warning\Saves\metaData.m
-Open it with notepad and edit the coin count there.
+   You can just edit the save file in `AppData\LocalLow\Landfall Games\Content Warning\Saves\metaData.m`
+   
+   Open it with notepad and edit the coin count there.
 
 ## Is this mod vanilla compatible?
    No.
